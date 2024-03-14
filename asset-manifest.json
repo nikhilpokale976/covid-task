@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/covid-task/static/css/main.5c958d69.css",
+    "main.js": "/covid-task/static/js/main.c2675ad6.js",
+    "static/media/image.jpg": "/covid-task/static/media/image.6537ced91704aab5dfa5.jpg",
+    "index.html": "/covid-task/index.html",
+    "main.5c958d69.css.map": "/covid-task/static/css/main.5c958d69.css.map",
+    "main.c2675ad6.js.map": "/covid-task/static/js/main.c2675ad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c958d69.css",
+    "static/js/main.c2675ad6.js"
+  ]
+}
